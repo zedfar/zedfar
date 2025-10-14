@@ -21,17 +21,29 @@ Passionate fullstack developer with expertise in building modern web application
 - 🦜 LangChain - Building applications with LLMs
 - 🎯 Agentic AI - Creating autonomous AI agents
 
+**Data Visualization:**
+- 📊 Charts & Graphs - Interactive data visualization
+- 🕸️ Network Diagrams - Complex relationship mapping
+- 🎨 SVG Graphics - Custom scalable vector graphics
+- 📈 D3.js - Data-driven documents
+- 📉 Chart Libraries - Echarts, Highcharts, amcharts
+
 ### 🛠️ What I Do
 
 - 🌐 Build fullstack web applications from scratch
 - 🔄 Design and implement RESTful APIs
 - 🤖 Integrate AI capabilities into web applications
 - 🏗️ Create agentic AI systems using LangChain and Ollama
+- 📊 Transform complex data into intuitive visualizations
+- 🎨 Design custom charts, network graphs, and SVG graphics
+- 📈 Build interactive dashboards and data exploration tools
 - 📊 Develop scalable and maintainable code architectures
 
 ### 🌱 Currently Exploring
 
 - Advanced agentic AI patterns
+- Real-time data visualization techniques
+- Interactive network graph algorithms
 - Microservices architecture
 - Cloud-native applications
 - Latest AI/ML integration techniques
@@ -41,11 +53,11 @@ Passionate fullstack developer with expertise in building modern web application
 - 💼 LinkedIn: [Your LinkedIn]
 - 🐦 Twitter: [Your Twitter]
 - 📧 Email: [Your Email]
-- 🌐 Portfolio: [Your Website] -->
+- 🌐 Portfolio: [Your Website]
 
-<!-- ### 📊 GitHub Stats -->
+### 📊 GitHub Stats
 
-<!-- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 
