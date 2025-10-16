@@ -5,7 +5,7 @@ Fullstack Developer | AI Enthusiast | Data Viz Specialist
 ## 🛠️ Tech Stack
 
 **Frontend:** React • Angular • HTML/CSS/JS  
-**Backend:** Node.js • Express • NestJS  * Python
+**Backend:** Node.js • Express • NestJS  • Python  
 **AI/ML:** Ollama • LangChain • Agentic AI  
 **Data Viz:** D3.js • Chart.js • SVG • Network Graphs
 
