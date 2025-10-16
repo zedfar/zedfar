@@ -1,66 +1,26 @@
-# Hi there! 👋
+# 👋 Hi, I'm Zulfar
 
-## 🚀 Fullstack Developer | AI Enthusiast | Data Visualization Expert
+Fullstack Developer | AI Enthusiast | Data Viz Specialist
 
-Passionate fullstack developer with expertise in building modern web applications and integrating AI solutions. I specialize in transforming complex data into compelling visual stories through interactive charts, networks, and custom graphics. I love creating scalable applications and exploring the intersection of web development, artificial intelligence, and data visualization.
+## 🛠️ Tech Stack
 
-### 💻 Tech Stack
+**Frontend:** React • Angular • HTML/CSS/JS  
+**Backend:** Node.js • Express • NestJS  * Python
+**AI/ML:** Ollama • LangChain • Agentic AI  
+**Data Viz:** D3.js • Chart.js • SVG • Network Graphs
 
-**Frontend:**
-- ⚛️ React - Building interactive user interfaces
-- 🅰️ Angular - Enterprise-grade applications
-- 🎨 HTML/CSS/JavaScript - Modern web standards
+## 💡 What I Build
 
-**Backend:**
-- 🟢 Node.js - Server-side JavaScript runtime
-- 🚂 Express.js - Fast, minimalist web framework
-- ✨ NestJS - Progressive Node.js framework for scalable server-side applications
+✨ Fullstack web applications  
+🤖 AI-powered solutions with LLMs  
+📊 Interactive data visualizations  
+🕸️ Network diagrams & custom graphics  
+🏗️ Scalable RESTful APIs
 
-**AI & Machine Learning:**
-- 🤖 Ollama - Running large language models locally
-- 🦜 LangChain - Building applications with LLMs
-- 🎯 Agentic AI - Creating autonomous AI agents
+## 🌱 Currently Exploring
 
-**Data Visualization:**
-- 📊 Charts & Graphs - Interactive data visualization
-- 🕸️ Network Diagrams - Complex relationship mapping
-- 🎨 SVG Graphics - Custom scalable vector graphics
-- 📈 D3.js - Data-driven documents
-- 📉 Chart Libraries - Echarts, Highcharts, amcharts
-
-### 🛠️ What I Do
-
-- 🌐 Build fullstack web applications from scratch
-- 🔄 Design and implement RESTful APIs
-- 🤖 Integrate AI capabilities into web applications
-- 🏗️ Create agentic AI systems using LangChain and Ollama
-- 📊 Transform complex data into intuitive visualizations
-- 🎨 Design custom charts, network graphs, and SVG graphics
-- 📈 Build interactive dashboards and data exploration tools
-- 📊 Develop scalable and maintainable code architectures
-
-### 🌱 Currently Exploring
-
-- Advanced agentic AI patterns
-- Real-time data visualization techniques
-- Interactive network graph algorithms
-- Microservices architecture
-- Cloud-native applications
-- Latest AI/ML integration techniques
-
-<!-- ### 📫 Let's Connect
-
-- 💼 LinkedIn: [Your LinkedIn]
-- 🐦 Twitter: [Your Twitter]
-- 📧 Email: [Your Email]
-- 🌐 Portfolio: [Your Website]
-
-### 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+Advanced agentic AI • Real-time visualizations • Microservices
 
 ---
 
-⭐️ From [Your GitHub Username](https://github.com/YOUR_USERNAME) -->
+💬 Open to collaborate on interesting projects!
