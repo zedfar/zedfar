@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Zulfar
+# 👋 Hi, I'm Zedfar
 
 Fullstack Developer | AI Enthusiast | Data Viz Specialist
 
