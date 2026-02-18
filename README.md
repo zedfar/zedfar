@@ -1,10 +1,26 @@
 # 👋 Hi, I'm Zedfar
 
-Fullstack Developer | AI Enthusiast | Data Viz Specialist
+### Fullstack Developer | AI Enthusiast | Data Viz Specialist
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zedfar&theme=transparent)
+<div align="center">
+<br/>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zedfar&theme=transparent)
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zedfar&theme=transparent)
+
+<table>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zedfar&theme=transparent"/>
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zedfar&theme=transparent&utcOffset=7"/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
 
 ## 🛠️ Tech Stack
 
