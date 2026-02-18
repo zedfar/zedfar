@@ -8,7 +8,7 @@
 **Backend:** Node.js • Express • NestJS  • Python  
 **Mobile:** React Native • Expo   
 **AI/ML:** Ollama • LangChain • Agentic AI  
-**Data Viz:** D3.js • Chart.js/Echarts • SVG • Network Graphs
+**Data Viz:** D3.js • Chart.js/Echarts • SVG • Network Graphs  
 **3D/WebGL:** Three.js
 
 ## 💡 What I Build
