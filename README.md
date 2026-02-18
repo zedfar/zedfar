@@ -2,6 +2,8 @@
 
 Fullstack Developer | AI Enthusiast | Data Viz Specialist
 
+![Zedfar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zedfar&show_icons=true&theme=radical)
+
 ## 🛠️ Tech Stack
 
 **Frontend:** React • Angular • HTML/CSS/JS  
