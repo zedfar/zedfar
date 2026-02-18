@@ -2,7 +2,9 @@
 
 Fullstack Developer | AI Enthusiast | Data Viz Specialist
 
-![Zedfar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zedfar&show_icons=true&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zedfar&theme=transparent)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zedfar&theme=transparent)
 
 ## 🛠️ Tech Stack
 
