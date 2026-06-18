@@ -1,17 +1,17 @@
 # 👋 Hi, I'm Zedfar
 
-### Software Engineer | Web · Mobile · Data Visualization · Prototyping
+### Software Engineer | Web • Mobile • Data Visualization • Prototyping
 
 I use this GitHub profile to document personal experiments, modified forks, prototypes, and learning projects around web, mobile, backend, data visualization, and AI-assisted development.
 
 ## 🛠️ Tech Stack
 
-**Frontend:** React · Angular · TypeScript · JavaScript · HTML · CSS
-**Backend:** Node.js · Python · Hono · REST APIs
-**Mobile:** React Native · Expo
-**Database & Tools:** SQL · MongoDB · Docker · Git
-**Data Visualization:** D3.js · ECharts · SVG · Network Graphs
-**AI-assisted Workflow:** LLM APIs · OpenAI · Anthropic · AI-assisted development
+**Frontend:** React • Angular • TypeScript • JavaScript • HTML • CSS  
+**Backend:** Node.js • Python • Hono • REST APIs  
+**Mobile:** React Native • Expo  
+**Database & Tools:** SQL • MongoDB • Docker • Git  
+**Data Visualization:** D3.js • ECharts • SVG • Network Graphs  
+**AI-assisted Workflow:** LLM APIs • OpenAI • Anthropic • AI-assisted development  
 
 ## 💡 Areas I Explore
 
